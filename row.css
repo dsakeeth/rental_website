@@ -1,0 +1,9 @@
+.star-container
+{
+    border: solid black 20px;
+    display: inline;
+}
+.star-container .interested-container
+{
+    display: block;
+}
